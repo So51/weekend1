@@ -1,0 +1,5 @@
+var a
+a = 10
+document.write (" Hello , this is my First challenge and I will do it  "  )
+document.write(a)
+document.write (" times . <br> I will do it, I will learn JavaScript.");
